@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: Pepito
 
 # Your name to show in the footer
 author: Some Person
@@ -55,7 +55,7 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
   github: daattali
-  twitter: daattali
+  twitter: pepito
   patreon: DeanAttali
   youtube: "@daattali"
   whatsapp: 15551212
